@@ -1,0 +1,65 @@
+.u-section-1 {
+  background-image: url("images/wsae-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 823px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1;
+  background-image: none;
+  font-weight: 400;
+  margin: 60px 198px 60px 475px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 679px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: 900;
+    width: 592px;
+    margin-left: 174px;
+    margin-right: 174px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 64px;
+    margin-right: 64px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 390px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 246px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: 819px;
+    margin-bottom: 0;
+    font-size: 1.5rem;
+  }
+}
